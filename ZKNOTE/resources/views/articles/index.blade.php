@@ -20,7 +20,7 @@
         @endforeach
     </main>
     <footer>
-        &copy; ZK Note ざっくりメモしよう
+        &copy; ZK Note ざっくりメモしよう!
     </footer>
 </body>
 </html>
