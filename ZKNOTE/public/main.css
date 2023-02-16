@@ -7,10 +7,9 @@ header {
     border-bottom: 30px solid  #062049;
     background: #062049;
     color: #fff;
-    line-height: 1.2;
 }
 .site-title {
-    font-size: 0.8rem;
+    font-size: 1.0rem;
 }
 .container {
     padding: 0 20px;
@@ -31,4 +30,20 @@ footer {
     font-size: 0.3rem;
     color: rgb(255, 255, 255);
     text-align: center;
+}
+ul.alert {
+    padding: 15px 15px 15px 40px;
+    border-radius: 4px;
+    background: #f8d6d9;
+    color: #721c24;
+}
+.article-info {
+    font-size: .8rem;
+    color: #777;
+}
+.article-body {
+    margin: 1rem 0;
+    padding: 1rem 0;
+    border-top: 1px dotted #ddd;
+    border-bottom: 1px dotted #ddd;
 }
